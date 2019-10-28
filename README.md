@@ -22,8 +22,8 @@ Run `npm start` for a dev server.
 
 Run `npx nodemon` for a backend server. 
 
-``Admin login``
+``LOGIN``
 
-email: Admin
+Username: Admin
 
-password:123456
+Password:123456
