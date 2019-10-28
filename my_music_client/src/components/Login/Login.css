@@ -1,0 +1,35 @@
+.login-frame{
+    width:500px;
+    height: auto;
+    min-height: 400px;
+    box-shadow: 3px 3px 10px gray;
+    text-align: center;
+    padding:20px;
+    margin-top:100px;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #b7c6da;
+    border-radius: 10px;
+    color:#fff;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+.login-frame input{
+    background: #858897;
+    border-color:#fff;
+    color:#fff;
+}
+.login-frame input:focus{
+    background-color: #4d7e65;
+    color:#fff;
+}
+.login-title{
+    margin-bottom: 25px;
+}
+.login-frame label{
+    margin-top:25px;
+}
+.login-frame .btn{
+    margin-top:40px;
+}
