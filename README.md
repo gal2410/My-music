@@ -5,13 +5,13 @@ To install client-side dependencies, run this in the application folder from the
 
  $ cd my_music_client
 
- npm install
-```
+ $ npm install
+
 Also, to install all server-side dependencies, run this in the application folder from the command-line:
 
  $ cd  my_music_server
 
- npm install
+ $ npm install
 ```
 
 ### Client server
